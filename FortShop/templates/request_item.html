@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fortnite Item Request</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <style>
+        body {
+            background-color: #1a1a1a;
+            color: white;
+            font-family: Arial, sans-serif;
+        }
+        .card {
+            background-color: #2a2a2a;
+            color: white;
+        }
+        .sort-container {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<!-- Include Navbar (Optional) -->
+{% include 'navbar.html' %}
+
+<!-- Main Content -->
+<div class="container mt-4" id="requestItem">
+    <h1 class="text-center">Fortnite Item Request</h1>
+    <hr>
+
+    <!-- Request Form -->
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-header">
+                    <h4>Enter Your Request</h4>
+                </div>
+                <div class="card-body">
+                    <form action="/request_item" method="POST">
+                        <div class="mb-3">
+                            <label for="email" class="form-label">Your Email:</label>
+                            <input type="email" id="email" name="email" class="form-control" required>
+                        </div>
+                        <div class="mb-3">
+                            <label for="item_name" class="form-label">Item Name:</label>
+                            <input type="text" id="item_name" name="item_name" class="form-control" required>
+                        </div>
+                        <button type="submit" class="btn btn-warning w-100">Submit Request</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    {% if message %}
+        <div class="alert alert-success mt-3" role="alert">
+            {{ message }}
+        </div>
+    {% endif %}
+</div>
+
+<!-- Bootstrap JS (necessary for navbar functionality) -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,19 @@
+{
+    "requests": [
+        {
+            "email": "TRISTANNARINE8@GMAIL.COM",
+            "item_name": "Deadpool (Pen & Ink)",
+            "notified": true
+        },
+        {
+            "email": "tristannarine8@gmail.com",
+            "item_name": "Deadpool (Pen & Ink)",
+            "notified": true
+        },
+        {
+            "email": "tristannarine8@gmail.com",
+            "item_name": "jlehb",
+            "notified": false
+        }
+    ]
+}

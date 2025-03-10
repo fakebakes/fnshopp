@@ -1,0 +1,600 @@
+{
+    "2025-03-08": {
+        "Skins": [
+            {
+                "name": "Kong",
+                "price": 1500,
+                "image": "https://fortnite-api.com/images/cosmetics/br/character_avocadoseal/featured.png"
+            },
+            {
+                "name": "Commander Zavala",
+                "price": 1500,
+                "image": "https://fortnite-api.com/images/cosmetics/br/cid_a_467_athena_commando_m_wayfare/featured.png"
+            },
+            {
+                "name": "Aura",
+                "price": 800,
+                "image": "https://fortnite-api.com/images/cosmetics/br/cid_397_athena_commando_f_treasurehunterfashion/featured.png"
+            },
+            {
+                "name": "Guild",
+                "price": 800,
+                "image": "https://fortnite-api.com/images/cosmetics/br/cid_398_athena_commando_m_treasurehunterfashion/featured.png"
+            },
+            {
+                "name": "Hunter",
+                "price": 1800,
+                "image": "https://fortnite-api.com/images/cosmetics/br/cid_855_athena_commando_m_elastic/featured.png"
+            },
+            {
+                "name": "Snoop Dogg",
+                "price": 1800,
+                "image": "https://fortnite-api.com/images/cosmetics/br/character_lemoncartgranite/featured.png"
+            },
+            {
+                "name": "Mechagodzilla",
+                "price": 1800,
+                "image": "https://fortnite-api.com/images/cosmetics/br/character_butterplate/featured.png"
+            },
+            {
+                "name": "Fishstick",
+                "price": 1200,
+                "image": "https://fortnite-api.com/images/cosmetics/br/cid_315_athena_commando_m_teriyakifish/featured.png"
+            },
+            {
+                "name": "Anwar",
+                "price": 1200,
+                "image": "https://fortnite-api.com/images/cosmetics/br/character_paperblaze/featured.png"
+            },
+            {
+                "name": "Noorah",
+                "price": 1200,
+                "image": "https://fortnite-api.com/images/cosmetics/br/character_paperglow/featured.png"
+            },
+            {
+                "name": "Raven Team Leader",
+                "price": 1600,
+                "image": "https://fortnite-api.com/images/cosmetics/br/character_scareybeary/icon.png"
+            },
+            {
+                "name": "Exo Stranger",
+                "price": 1500,
+                "image": "https://fortnite-api.com/images/cosmetics/br/cid_a_469_athena_commando_f_wayfaremask/featured.png"
+            },
+            {
+                "name": "Hatsune Miku",
+                "price": 1500,
+                "image": "https://fortnite-api.com/images/cosmetics/br/character_jadetowelgloss/featured.png"
+            },
+            {
+                "name": "Ikora Rey",
+                "price": 1500,
+                "image": "https://fortnite-api.com/images/cosmetics/br/cid_a_468_athena_commando_f_wayfare/featured.png"
+            },
+            {
+                "name": "Dummy",
+                "price": 1200,
+                "image": "https://fortnite-api.com/images/cosmetics/br/cid_795_athena_commando_m_dummeez/featured.png"
+            },
+            {
+                "name": "Sally",
+                "price": 1500,
+                "image": "https://fortnite-api.com/images/cosmetics/br/character_haybrush/icon.png"
+            },
+            {
+                "name": "Pumpkin King",
+                "price": 2000,
+                "image": "https://fortnite-api.com/images/cosmetics/br/character_burntbagel/icon.png"
+            },
+            {
+                "name": "Yennefer of Vengerberg",
+                "price": 1500,
+                "image": "https://fortnite-api.com/images/cosmetics/br/character_fishbowl/featured.png"
+            },
+            {
+                "name": "Monks",
+                "price": 1200,
+                "image": "https://fortnite-api.com/images/cosmetics/br/cid_658_athena_commando_f_toymonkey/featured.png"
+            },
+            {
+                "name": "The Diamond",
+                "price": 800,
+                "image": "https://fortnite-api.com/images/cosmetics/br/character_hastybandit/featured.png"
+            },
+            {
+                "name": "Ciri",
+                "price": 2000,
+                "image": "https://fortnite-api.com/images/cosmetics/br/character_highbeam/featured.png"
+            },
+            {
+                "name": "Chaos Explorer",
+                "price": 800,
+                "image": "https://fortnite-api.com/images/cosmetics/br/character_mastermindsummer/featured.png"
+            }
+        ],
+        "Emotes": [
+            {
+                "name": "Survivorsault",
+                "price": 200,
+                "image": "https://fortnite-api.com/images/cosmetics/br/eid_survivorsault_nj7wc/featured.png"
+            },
+            {
+                "name": "Billy Bounce",
+                "price": 500,
+                "image": "https://fortnite-api.com/images/cosmetics/br/eid_billybounce/featured.png"
+            },
+            {
+                "name": "Swagger Strut",
+                "price": 300,
+                "image": "https://fortnite-api.com/images/cosmetics/br/eid_pompous/featured.png"
+            },
+            {
+                "name": "Side Shuffle",
+                "price": 500,
+                "image": "https://fortnite-api.com/images/cosmetics/br/eid_goodbye/featured.png"
+            },
+            {
+                "name": "Snoop's Walk",
+                "price": 500,
+                "image": "https://fortnite-api.com/images/cosmetics/br/eid_lemoncart/featured.png"
+            },
+            {
+                "name": "Bizcochito",
+                "price": 500,
+                "image": "https://fortnite-api.com/images/cosmetics/br/eid_sunmelt/featured.png"
+            },
+            {
+                "name": "Drum Major",
+                "price": 500,
+                "image": "https://fortnite-api.com/images/cosmetics/br/eid_drummajor/featured.png"
+            },
+            {
+                "name": "Miracle Trickshot",
+                "price": 300,
+                "image": "https://fortnite-api.com/images/cosmetics/br/eid_flipit/featured.png"
+            },
+            {
+                "name": "Miku Miku Beam",
+                "price": 500,
+                "image": "https://fortnite-api.com/images/cosmetics/br/eid_jadetowel_gloss/featured.png"
+            },
+            {
+                "name": "Primo Moves",
+                "price": 500,
+                "image": "https://fortnite-api.com/images/cosmetics/br/eid_breakfastcoffeedance/featured.png"
+            },
+            {
+                "name": "Jamboree",
+                "price": 500,
+                "image": "https://fortnite-api.com/images/cosmetics/br/eid_quicksweeper/featured.png"
+            },
+            {
+                "name": "Miku Live",
+                "price": 500,
+                "image": "https://fortnite-api.com/images/cosmetics/br/eid_jadetowel/featured.png"
+            },
+            {
+                "name": "Ma-Ya-Hi",
+                "price": 400,
+                "image": "https://fortnite-api.com/images/cosmetics/br/eid_iconic/icon.png"
+            },
+            {
+                "name": "B.E.A.S.T. Glove",
+                "price": 400,
+                "image": "https://fortnite-api.com/images/cosmetics/br/eid_avocadoseal/featured.png"
+            },
+            {
+                "name": "BOO!",
+                "price": 2000,
+                "image": "https://fortnite-api.com/images/cosmetics/br/eid_burntbagel/icon.png"
+            },
+            {
+                "name": "Interstellar Bass",
+                "price": 500,
+                "image": "https://fortnite-api.com/images/cosmetics/br/eid_resonant/featured.png"
+            },
+            {
+                "name": "Jubi Slide",
+                "price": 500,
+                "image": "https://fortnite-api.com/images/cosmetics/br/eid_goodbye_upbeat/featured.png"
+            },
+            {
+                "name": "Investigate",
+                "price": 300,
+                "image": "https://fortnite-api.com/images/cosmetics/br/eid_wayfare/featured.png"
+            },
+            {
+                "name": "Black Wings",
+                "price": 300,
+                "image": "https://fortnite-api.com/images/cosmetics/br/eid_fishbowl/featured.png"
+            }
+        ],
+        "Shoes": [
+            {
+                "name": "adidas Ultraboost 1.0 x Fortnite 'Battlebus'",
+                "price": 1000,
+                "image": "https://fortnite-api.com/images/cosmetics/br/shoes_energyburychili/featured.png"
+            },
+            {
+                "name": "adidas Ultraboost 1.0 x Fortnite 'Peely'",
+                "price": 1000,
+                "image": "https://fortnite-api.com/images/cosmetics/br/shoes_daintyfoildrip/featured.png"
+            },
+            {
+                "name": "Air Jordan 3 SE Co.JP 'Denim'",
+                "price": 1000,
+                "image": "https://fortnite-api.com/images/cosmetics/br/shoes_tunacabinlard/featured.png"
+            },
+            {
+                "name": "Nike Air Force 1 'Believe Daruma'",
+                "price": 1000,
+                "image": "https://fortnite-api.com/images/cosmetics/br/shoes_lungestreamchord/featured.png"
+            },
+            {
+                "name": "Nike SB Dunk Low Pro YH",
+                "price": 1000,
+                "image": "https://fortnite-api.com/images/cosmetics/br/shoes_stemdotballet/featured.png"
+            },
+            {
+                "name": "Air Jordan 4 'Orchid'",
+                "price": 800,
+                "image": "https://fortnite-api.com/images/cosmetics/br/shoes_tunacabinsoya/featured.png"
+            },
+            {
+                "name": "adidas Ultraboost 1.0 x Fortnite 'Victory Crown Black'",
+                "price": 1000,
+                "image": "https://fortnite-api.com/images/cosmetics/br/shoes_energyburycayenne/featured.png"
+            },
+            {
+                "name": "adidas Ultraboost 1.0 x Fortnite 'Victory Crown White'",
+                "price": 1000,
+                "image": "https://fortnite-api.com/images/cosmetics/br/shoes_energyburypasilla/featured.png"
+            },
+            {
+                "name": "Air Jordan 5 'Tokyo 23'",
+                "price": 1000,
+                "image": "https://fortnite-api.com/images/cosmetics/br/shoes_lungestreamalto/featured.png"
+            },
+            {
+                "name": "Air Jordan 3 Retro 'Palomino'",
+                "price": 800,
+                "image": "https://fortnite-api.com/images/cosmetics/br/shoes_breathtalemargot/featured.png"
+            },
+            {
+                "name": "Air Jordan XXXV Rui Hachimura PE 'Cherry Blossom'",
+                "price": 1000,
+                "image": "https://fortnite-api.com/images/cosmetics/br/shoes_stemdothinge/featured.png"
+            },
+            {
+                "name": "adidas Ultraboost 1.0 x Fortnite 'Fishstick'",
+                "price": 1000,
+                "image": "https://fortnite-api.com/images/cosmetics/br/shoes_daintyfoilunagi/featured.png"
+            },
+            {
+                "name": "adidas adizero Evo SL \u2018Black/Lucid Lemon\u2019",
+                "price": 800,
+                "image": "https://fortnite-api.com/images/cosmetics/br/shoes_energyburyfresno/featured.png"
+            },
+            {
+                "name": "Nike Roshe One 'Cherry Blossom'",
+                "price": 1000,
+                "image": "https://fortnite-api.com/images/cosmetics/br/shoes_tunacabinsuet/featured.png"
+            }
+        ]
+    },
+    "2025-03-09": {
+        "Skins": [
+            {
+                "name": "Commander Zavala",
+                "price": 1500,
+                "image": "https://fortnite-api.com/images/cosmetics/br/cid_a_467_athena_commando_m_wayfare/featured.png"
+            },
+            {
+                "name": "Snoop Dogg",
+                "price": 1800,
+                "image": "https://fortnite-api.com/images/cosmetics/br/character_lemoncartgranite/featured.png"
+            },
+            {
+                "name": "Wolverine (Pen & Ink)",
+                "price": 2000,
+                "image": "https://fortnite-api.com/images/cosmetics/br/character_olivestomp/icon.png"
+            },
+            {
+                "name": "Deadpool (Pen & Ink)",
+                "price": 2000,
+                "image": "https://fortnite-api.com/images/cosmetics/br/character_driedsilk/icon.png"
+            },
+            {
+                "name": "Fishstick",
+                "price": 1200,
+                "image": "https://fortnite-api.com/images/cosmetics/br/cid_315_athena_commando_m_teriyakifish/featured.png"
+            },
+            {
+                "name": "Anwar",
+                "price": 1200,
+                "image": "https://fortnite-api.com/images/cosmetics/br/character_paperblaze/featured.png"
+            },
+            {
+                "name": "Noorah",
+                "price": 1200,
+                "image": "https://fortnite-api.com/images/cosmetics/br/character_paperglow/featured.png"
+            },
+            {
+                "name": "Raven Team Leader",
+                "price": 1600,
+                "image": "https://fortnite-api.com/images/cosmetics/br/character_scareybeary/icon.png"
+            },
+            {
+                "name": "Exo Stranger",
+                "price": 1500,
+                "image": "https://fortnite-api.com/images/cosmetics/br/cid_a_469_athena_commando_f_wayfaremask/featured.png"
+            },
+            {
+                "name": "Gan",
+                "price": 1200,
+                "image": "https://fortnite-api.com/images/cosmetics/br/cid_681_athena_commando_m_martialartist/featured.png"
+            },
+            {
+                "name": "Hatsune Miku",
+                "price": 1500,
+                "image": "https://fortnite-api.com/images/cosmetics/br/character_jadetowelgloss/featured.png"
+            },
+            {
+                "name": "Battle Hound",
+                "price": 2000,
+                "image": "https://fortnite-api.com/images/cosmetics/br/cid_100_athena_commando_m_cuchulainn/featured.png"
+            },
+            {
+                "name": "Ikora Rey",
+                "price": 1500,
+                "image": "https://fortnite-api.com/images/cosmetics/br/cid_a_468_athena_commando_f_wayfare/featured.png"
+            },
+            {
+                "name": "Aura",
+                "price": 800,
+                "image": "https://fortnite-api.com/images/cosmetics/br/cid_397_athena_commando_f_treasurehunterfashion/featured.png"
+            },
+            {
+                "name": "Elowen",
+                "price": 1500,
+                "image": "https://fortnite-api.com/images/cosmetics/br/character_autumndelivery/featured.png"
+            },
+            {
+                "name": "Dummy",
+                "price": 1200,
+                "image": "https://fortnite-api.com/images/cosmetics/br/cid_795_athena_commando_m_dummeez/featured.png"
+            },
+            {
+                "name": "Highland Warrior",
+                "price": 1500,
+                "image": "https://fortnite-api.com/images/cosmetics/br/cid_099_athena_commando_f_scathach/featured.png"
+            },
+            {
+                "name": "Sally",
+                "price": 1500,
+                "image": "https://fortnite-api.com/images/cosmetics/br/character_haybrush/icon.png"
+            },
+            {
+                "name": "Pumpkin King",
+                "price": 2000,
+                "image": "https://fortnite-api.com/images/cosmetics/br/character_burntbagel/icon.png"
+            },
+            {
+                "name": "Yennefer of Vengerberg",
+                "price": 1500,
+                "image": "https://fortnite-api.com/images/cosmetics/br/character_fishbowl/featured.png"
+            },
+            {
+                "name": "Monks",
+                "price": 1200,
+                "image": "https://fortnite-api.com/images/cosmetics/br/cid_658_athena_commando_f_toymonkey/featured.png"
+            },
+            {
+                "name": "Shifu",
+                "price": 1200,
+                "image": "https://fortnite-api.com/images/cosmetics/br/cid_509_athena_commando_m_wisemaster/featured.png"
+            },
+            {
+                "name": "Magnus",
+                "price": 2000,
+                "image": "https://fortnite-api.com/images/cosmetics/br/cid_164_athena_commando_m_viking/featured.png"
+            },
+            {
+                "name": "The Diamond",
+                "price": 800,
+                "image": "https://fortnite-api.com/images/cosmetics/br/character_hastybandit/featured.png"
+            },
+            {
+                "name": "Ciri",
+                "price": 2000,
+                "image": "https://fortnite-api.com/images/cosmetics/br/character_highbeam/featured.png"
+            }
+        ],
+        "Emotes": [
+            {
+                "name": "Blinding Lights",
+                "price": 500,
+                "image": "https://fortnite-api.com/images/cosmetics/br/eid_autumntea/icon.png"
+            },
+            {
+                "name": "Harmony",
+                "price": 200,
+                "image": "https://fortnite-api.com/images/cosmetics/br/eid_divinepose/featured.png"
+            },
+            {
+                "name": "The Quick Style",
+                "price": 500,
+                "image": "https://fortnite-api.com/images/cosmetics/br/eid_nimble/featured.png"
+            },
+            {
+                "name": "Snoop's Walk",
+                "price": 500,
+                "image": "https://fortnite-api.com/images/cosmetics/br/eid_lemoncart/featured.png"
+            },
+            {
+                "name": "SNIKT-ing Go Time",
+                "price": 2000,
+                "image": "https://fortnite-api.com/images/cosmetics/br/eid_olivestomp/icon.png"
+            },
+            {
+                "name": "What!? No Way!",
+                "price": 2000,
+                "image": "https://fortnite-api.com/images/cosmetics/br/eid_driedsilk/icon.png"
+            },
+            {
+                "name": "Drum Major",
+                "price": 500,
+                "image": "https://fortnite-api.com/images/cosmetics/br/eid_drummajor/featured.png"
+            },
+            {
+                "name": "I'm Out",
+                "price": 500,
+                "image": "https://fortnite-api.com/images/cosmetics/br/eid_vacant/featured.png"
+            },
+            {
+                "name": "Say So",
+                "price": 500,
+                "image": "https://fortnite-api.com/images/cosmetics/br/eid_hotpink/featured.png"
+            },
+            {
+                "name": "The Macarena",
+                "price": 500,
+                "image": "https://fortnite-api.com/images/cosmetics/br/eid_macaroon_45lhe/featured.png"
+            },
+            {
+                "name": "Miku Miku Beam",
+                "price": 500,
+                "image": "https://fortnite-api.com/images/cosmetics/br/eid_jadetowel_gloss/featured.png"
+            },
+            {
+                "name": "Primo Moves",
+                "price": 500,
+                "image": "https://fortnite-api.com/images/cosmetics/br/eid_breakfastcoffeedance/featured.png"
+            },
+            {
+                "name": "Jamboree",
+                "price": 500,
+                "image": "https://fortnite-api.com/images/cosmetics/br/eid_quicksweeper/featured.png"
+            },
+            {
+                "name": "Looking Good",
+                "price": 500,
+                "image": "https://fortnite-api.com/images/cosmetics/br/eid_sublime/featured.png"
+            },
+            {
+                "name": "Miku Live",
+                "price": 500,
+                "image": "https://fortnite-api.com/images/cosmetics/br/eid_jadetowel/featured.png"
+            },
+            {
+                "name": "BOO!",
+                "price": 2000,
+                "image": "https://fortnite-api.com/images/cosmetics/br/eid_burntbagel/icon.png"
+            },
+            {
+                "name": "Gloss",
+                "price": 500,
+                "image": "https://fortnite-api.com/images/cosmetics/br/eid_butter_1r26q/featured.png"
+            },
+            {
+                "name": "Intensity",
+                "price": 800,
+                "image": "https://fortnite-api.com/images/cosmetics/br/eid_intensity/featured.png"
+            },
+            {
+                "name": "Investigate",
+                "price": 300,
+                "image": "https://fortnite-api.com/images/cosmetics/br/eid_wayfare/featured.png"
+            },
+            {
+                "name": "Battle Call",
+                "price": 200,
+                "image": "https://fortnite-api.com/images/cosmetics/br/eid_vikinghorn/icon.png"
+            },
+            {
+                "name": "Groove Destroyer",
+                "price": 500,
+                "image": "https://fortnite-api.com/images/cosmetics/br/eid_reverie/featured.png"
+            },
+            {
+                "name": "Black Wings",
+                "price": 300,
+                "image": "https://fortnite-api.com/images/cosmetics/br/eid_fishbowl/featured.png"
+            }
+        ],
+        "Shoes": [
+            {
+                "name": "adidas Ultraboost 1.0 x Fortnite 'Battlebus'",
+                "price": 1000,
+                "image": "https://fortnite-api.com/images/cosmetics/br/shoes_energyburychili/featured.png"
+            },
+            {
+                "name": "adidas Ultraboost 1.0 x Fortnite 'Peely'",
+                "price": 1000,
+                "image": "https://fortnite-api.com/images/cosmetics/br/shoes_daintyfoildrip/featured.png"
+            },
+            {
+                "name": "Air Jordan 3 SE Co.JP 'Denim'",
+                "price": 1000,
+                "image": "https://fortnite-api.com/images/cosmetics/br/shoes_tunacabinlard/featured.png"
+            },
+            {
+                "name": "Nike Air Force 1 'Believe Daruma'",
+                "price": 1000,
+                "image": "https://fortnite-api.com/images/cosmetics/br/shoes_lungestreamchord/featured.png"
+            },
+            {
+                "name": "Nike SB Dunk Low Pro YH",
+                "price": 1000,
+                "image": "https://fortnite-api.com/images/cosmetics/br/shoes_stemdotballet/featured.png"
+            },
+            {
+                "name": "Air Jordan 4 'Orchid'",
+                "price": 800,
+                "image": "https://fortnite-api.com/images/cosmetics/br/shoes_tunacabinsoya/featured.png"
+            },
+            {
+                "name": "adidas Ultraboost 1.0 x Fortnite 'Victory Crown Black'",
+                "price": 1000,
+                "image": "https://fortnite-api.com/images/cosmetics/br/shoes_energyburycayenne/featured.png"
+            },
+            {
+                "name": "adidas Ultraboost 1.0 x Fortnite 'Victory Crown White'",
+                "price": 1000,
+                "image": "https://fortnite-api.com/images/cosmetics/br/shoes_energyburypasilla/featured.png"
+            },
+            {
+                "name": "Air Jordan 5 'Tokyo 23'",
+                "price": 1000,
+                "image": "https://fortnite-api.com/images/cosmetics/br/shoes_lungestreamalto/featured.png"
+            },
+            {
+                "name": "Air Jordan 3 Retro 'Palomino'",
+                "price": 800,
+                "image": "https://fortnite-api.com/images/cosmetics/br/shoes_breathtalemargot/featured.png"
+            },
+            {
+                "name": "Air Jordan XXXV Rui Hachimura PE 'Cherry Blossom'",
+                "price": 1000,
+                "image": "https://fortnite-api.com/images/cosmetics/br/shoes_stemdothinge/featured.png"
+            },
+            {
+                "name": "adidas Ultraboost 1.0 x Fortnite 'Fishstick'",
+                "price": 1000,
+                "image": "https://fortnite-api.com/images/cosmetics/br/shoes_daintyfoilunagi/featured.png"
+            },
+            {
+                "name": "adidas adizero Evo SL \u2018Black/Lucid Lemon\u2019",
+                "price": 800,
+                "image": "https://fortnite-api.com/images/cosmetics/br/shoes_energyburyfresno/featured.png"
+            },
+            {
+                "name": "Nike Roshe One 'Cherry Blossom'",
+                "price": 1000,
+                "image": "https://fortnite-api.com/images/cosmetics/br/shoes_tunacabinsuet/featured.png"
+            }
+        ],
+        "Music": [],
+        "Instruments": []
+    }
+}
